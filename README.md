@@ -1,2 +1,2 @@
 # Projects
-A few things to get on github and test out.
+Contains work that I completed as a part time student at General Assembly. This work is rather outdated for now, and I'm working on updating my repository.
